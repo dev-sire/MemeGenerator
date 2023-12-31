@@ -1,0 +1,19 @@
+{
+  "files": {
+    "main.css": "/MemeGenerator/static/css/main.ce0610a6.css",
+    "main.js": "/MemeGenerator/static/js/main.764516cc.js",
+    "static/js/787.a2cb7e5a.chunk.js": "/MemeGenerator/static/js/787.a2cb7e5a.chunk.js",
+    "static/media/troll-face-2.png": "/MemeGenerator/static/media/troll-face-2.d574f5a5123cc14aae1e.png",
+    "static/media/star-empty2.png": "/MemeGenerator/static/media/star-empty2.143ae5f18bc965990b5f.png",
+    "static/media/adminpic.png": "/MemeGenerator/static/media/adminpic.5004fd6a9b73caaa6dbd.png",
+    "static/media/star-filled2.png": "/MemeGenerator/static/media/star-filled2.143b88b0dce1916f4e80.png",
+    "index.html": "/MemeGenerator/index.html",
+    "main.ce0610a6.css.map": "/MemeGenerator/static/css/main.ce0610a6.css.map",
+    "main.764516cc.js.map": "/MemeGenerator/static/js/main.764516cc.js.map",
+    "787.a2cb7e5a.chunk.js.map": "/MemeGenerator/static/js/787.a2cb7e5a.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.ce0610a6.css",
+    "static/js/main.764516cc.js"
+  ]
+}
